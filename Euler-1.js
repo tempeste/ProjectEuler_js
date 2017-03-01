@@ -1,3 +1,4 @@
+function q1(){
 var i = 3
 var total=0
 while (i != 1000){
@@ -5,3 +6,4 @@ while (i != 1000){
   else {i+=1}
 }
 console.log(total)
+}
